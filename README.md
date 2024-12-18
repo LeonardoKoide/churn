@@ -70,4 +70,4 @@ Aplicar modelos de Machine Learning para prever churn.
 Desenvolver estratégias de retenção baseadas nos insights obtidos.
 Autor
 Leonardo Fila Koide
-LinkedIn(https://www.linkedin.com/in/leonardokoide/) | GitHub(https://github.com/LeonardoKoide)
+
